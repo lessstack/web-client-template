@@ -1230,10 +1230,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@lessstack/babel-config@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@lessstack/babel-config/-/babel-config-0.1.3.tgz#efd66e794ac2a5793f4fbf7501968d1e21e1a11c"
-  integrity sha512-QBGHpT8LYGY/KaG73d3lEgdVlT1UpFv4HvysEA6Rh37TrHqmXX4qz1KtCW2XqcWVHWC7hbG89q7X8lAEvnB2hg==
+"@lessstack/babel-config@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@lessstack/babel-config/-/babel-config-0.1.4.tgz#967ee410699b253df7582f6f26bb19f43381e771"
+  integrity sha512-PITe7aR3YzTRKeeVm5wtL5ciOIwqrhhmwx/Y7BlRKMFAid453EFpK5gRKvVtMD22sVA5lsqCTav5WdxB1VzD4g==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/plugin-transform-runtime" "^7.16.0"
@@ -1242,12 +1242,12 @@
     "@babel/runtime" "^7.16.3"
     "@linaria/babel-preset" "^3.0.0-beta.13"
 
-"@lessstack/eslint-config@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@lessstack/eslint-config/-/eslint-config-0.1.3.tgz#2627c2cb0dde86e8cf649bdc5e1c01428948f6b8"
-  integrity sha512-j878sAFvrIz2kED0+q+Xfr6QdhBXl9yfHoEMtz9S0vmS9yaGmmFaxdeiO+qHIrhgwBtPWvh+6QkadAMRVGLrVA==
+"@lessstack/eslint-config@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@lessstack/eslint-config/-/eslint-config-0.1.4.tgz#4b7801921e0e38689e78aa829189092ea0f648cc"
+  integrity sha512-90vKzFrwgIAn8g53+2cKGJ+0fQzsTCjnjN01bGB5oBjrUOMP5kQqR/rgIppNODyMWYnsgfsn3WUKpRkoyWEuTQ==
   dependencies:
-    "@lessstack/prettier-config" "^0.1.3"
+    "@lessstack/prettier-config" "^0.1.4"
     eslint-config-airbnb "^18.2.1"
     eslint-config-prettier "^8.3.0"
     eslint-plugin-import "^2.25.2"
@@ -1256,22 +1256,22 @@
     eslint-plugin-react "^7.26.1"
     eslint-plugin-react-hooks "^4.2.0"
 
-"@lessstack/jest-config@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@lessstack/jest-config/-/jest-config-0.1.3.tgz#fc2718caea23f263240d4c951012921da2ff1655"
-  integrity sha512-K+283OfAUQRVCz9o1c4UjE3a3BraOhP0iKjbDQ8Nq+pMU+qviFqYR/JfRIy0nyqU4fO6obHpYS30NQB4quif2Q==
+"@lessstack/jest-config@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@lessstack/jest-config/-/jest-config-0.1.4.tgz#23dcc9692e12c2296f9109de6731c36284239843"
+  integrity sha512-6QQQbExGW3cajm2CvTeZ5p2evnOL881JGoRjVon9gQRM5yV2cpOiApWGa/llGNrBlttWd2/t6zjWYx1kG3noRw==
   dependencies:
     babel-jest "^27.3.1"
 
-"@lessstack/prettier-config@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@lessstack/prettier-config/-/prettier-config-0.1.3.tgz#3e1bb7faa0328f30768032b31c37eb9a5abbf252"
-  integrity sha512-Ifq1B4lTVccehpZRVXat6gKQzvfHVL++Rk6uqFoQaW0ppJIGq4VnADF9xA420awUCnnepwbypQjZFqOVq/wSqw==
+"@lessstack/prettier-config@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@lessstack/prettier-config/-/prettier-config-0.1.4.tgz#90bdbc8e043a5269f1dcd9b85be83075e7db7dd9"
+  integrity sha512-ZZihgWIKNC/doJp6noFb5hVuKfTDCGLT8yMtSRY8F9ZUeIM5+O5Q98UN6LaP5zZ46wkfkdLosUM76LD8Tnelkw==
 
-"@lessstack/webpack-config@^0.1.3":
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/@lessstack/webpack-config/-/webpack-config-0.1.3.tgz#a8b43d5e8b4e04c0ff5d476b1e1d5a3d679c980a"
-  integrity sha512-N67UfGzXksh7RINpj6cyObhFHDz0jpxzKB29KDKGaMY+URcs6lC9FJMOIftFHBMXIj13S+ZkBsVBUR/Z9UWmiw==
+"@lessstack/webpack-config@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@lessstack/webpack-config/-/webpack-config-0.1.4.tgz#fd2e025b75be5ce60e6428083e9b711c024153ef"
+  integrity sha512-Blipb62s4HqBD+xrIJ+uvH5lH8pbNXnl/7O91drvGAalOtM0JbfRVgabnlh0jLNOpYXMABGhmXbcyHPf+AOvdw==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/plugin-transform-runtime" "^7.16.0"
